@@ -1,0 +1,10 @@
+Rectangle()
+.fill(Color(red: 0.50, green: 0.23, blue: 0.27, opacity: 0.50))
+.frame(width: 200, height: 200)
+.padding(.vertical, 306)
+.padding(.leading, 96)
+.padding(.trailing, 79)
+.frame(width: 375, height: 812)
+.background(Color(red: 0.07, green: 0.17, blue: 0.27))
+.cornerRadius(30)
+
